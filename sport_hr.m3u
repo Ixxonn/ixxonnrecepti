@@ -1,91 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: Max Sport 1 FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: Max Sport 1 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/113678
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: Max Sport 1 HD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: Max Sport 1 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/113388
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: Max Sport 2 FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: Max Sport 2 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/113679
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: Max Sport 2 HD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: Max Sport 2 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/113389
-#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="VIP CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 1
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20644
-#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 1 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2505
-#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="VIP CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 2
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20643
-#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 2 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2503
-#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="VIP CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 3
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20642
-#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 3 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2501
-#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="VIP CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 4
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20641
-#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 4 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2499
-#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="VIP CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 5
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20640
-#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 5 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2497
-#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="VIP CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 6
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20639
-#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 6 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/13586
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: ARENA SPORT FHD 7" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 7
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/73443
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: ARENA SPORT FHD 8" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 8
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/73444
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: ARENA SPORT FHD 9" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 9
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/73445
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: ARENA SPORT FHD 10" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA SPORT FHD 10
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/73446
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: ARENA eSPORT FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: ARENA eSPORT FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/64360
-#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="VIP CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 1 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20654
-#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 1 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2494
-#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="VIP CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 2 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20653
-#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 2 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2493
-#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="VIP CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 3 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20652
-#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 3 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2492
-#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="VIP CRO: SPORT KLUB 4" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 4
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20651
-#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 4 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/5345
-#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="VIP CRO: SPORT KLUB 5" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 5
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20650
-#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 5 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/5344
-#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="VIP CRO: SPORT KLUB 6" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 6
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20649
-#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 6 HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/5343
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 7" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 7
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20648
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 8" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 8
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20647
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 9" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 9
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20646
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB 10
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/20645
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CRO: SPORT KLUB ESPORT FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB ESPORT FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/64359
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB FIGHT FHD" tvg-logo="" group-title="Live: Hrvatska",VIP CRO: SPORT KLUB FIGHT FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/64358
-#EXTINF:-1 tvg-ID="novahd.hr" tvg-name="CRO: NOVA HD" tvg-logo="" group-title="Live: Hrvatska",CRO: NOVA HD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/2482
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: RTL" tvg-logo="" group-title="Live: Hrvatska",CRO: RTL
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/52368
-#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 1 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/23715
-#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 1
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/1033
-#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 2 FHD
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/23714
-#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 2
-http://livego.club:8080/nGBsW71mykkw/xgdCjfzCrUSA/1034
+#EXTINF:-1 tvg-ID="Nova TV HD (HR).hr" tvg-name="CRO: NOVA FHD" tvg-logo="" group-title="Hrvatska",CRO: NOVA FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2482
+#EXTINF:-1 tvg-ID="HRT 2 HD (HR).hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Hrvatska",CRO: HRT 2 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/23714
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Max Sport 1 FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: Max Sport 1 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/113678
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Max Sport 1 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: Max Sport 1 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/113388
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Max Sport 2 FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: Max Sport 2 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/113679
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Max Sport 2 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: Max Sport 2 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/113389
+#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 1
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20644
+#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: ARENA SPORT 1 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT 1 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2505
+#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 2
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20643
+#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: ARENA SPORT 2 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT 2 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2503
+#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 3
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20642
+#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: ARENA SPORT 3 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT 3 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2501
+#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 4
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20641
+#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: ARENA SPORT 4 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: ARENA SPORT 4 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2499
+#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 5
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20640
+#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: ARENA SPORT 5 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: ARENA SPORT 5 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2497
+#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 6
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20639
+#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="CRO: ARENA SPORT 6 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: ARENA SPORT 6 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/13586
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT FHD 7" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 7
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/73443
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT FHD 8" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 8
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/73444
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT FHD 9" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 9
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/73445
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT FHD 10" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA SPORT FHD 10
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/73446
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: ARENA eSPORT FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: ARENA eSPORT FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/64360
+#EXTINF:-1 tvg-ID="SK 1 (HR).hr" tvg-name="CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 1 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20654
+#EXTINF:-1 tvg-ID="SK 1 HD (HR).hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 1 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2494
+#EXTINF:-1 tvg-ID="SK 2 HD (SR).hr" tvg-name="CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 2 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20653
+#EXTINF:-1 tvg-ID="SK 2 HD (HR).hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 2 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2493
+#EXTINF:-1 tvg-ID="SK 3 HD (SI).hr" tvg-name="CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 3 FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20652
+#EXTINF:-1 tvg-ID="SK 3 HD (HR).hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 3 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/2492
+#EXTINF:-1 tvg-ID="SK 4 HD (SI).hr" tvg-name="CRO: SPORT KLUB 4" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 4
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20651
+#EXTINF:-1 tvg-ID="SK 4 HD (HR).hr" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 4 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/5345
+#EXTINF:-1 tvg-ID="SK 5 HD (SI).hr" tvg-name="CRO: SPORT KLUB 5" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 5
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20650
+#EXTINF:-1 tvg-ID="SK 5 HD (SI).hr" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 5 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/5344
+#EXTINF:-1 tvg-ID="SK 6 HD (HR).hr" tvg-name="CRO: SPORT KLUB 6" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB 6
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20649
+#EXTINF:-1 tvg-ID="SK 6 HD (HR).hr" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 6 HD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/5343
+#EXTINF:-1 tvg-ID="SK 7 HD (HR).hr" tvg-name="CRO: SPORT KLUB 7" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 7
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20648
+#EXTINF:-1 tvg-ID="SK 8 HD (SR).hr" tvg-name="CRO: SPORT KLUB 8" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 8
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20647
+#EXTINF:-1 tvg-ID="SK 9 HD (HR).hr" tvg-name="CRO: SPORT KLUB 9" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 9
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20646
+#EXTINF:-1 tvg-ID="SK 10 HD (HR).hr" tvg-name="CRO: SPORT KLUB 10" tvg-logo="[" group-title="Hrvatska - Sport",CRO: SPORT KLUB 10
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/20645
+#EXTINF:-1 tvg-ID="SK Esports (SR).hr" tvg-name="CRO: SPORT KLUB ESPORT FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB ESPORT FHD
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/64359
+#EXTINF:-1 tvg-ID="SK Fight.hr" tvg-name="CRO: SPORT KLUB FIGHT FHD" tvg-logo="" group-title="Hrvatska - Sport",CRO: SPORT KLUB FIGHT FHD
