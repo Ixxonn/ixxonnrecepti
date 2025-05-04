@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="US: F1TV Main Event" tvg-logo="" group-title="USA - Formula 1",US: F1TV Main Event
 http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/111396
+#EXTINF:-1 tvg-ID="SkySportsF1HD.uk" tvg-name="UK: Sky Sport F1 UHD 4K" tvg-logo="" group-title="United Kingdom - Sport",UK: Sky Sport F1 UHD 4K
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/176090
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sport F1 UHD 4K B" tvg-logo="" group-title="United Kingdom - Sport",UK: Sky Sport F1 UHD 4K B
+http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/171689
 #EXTINF:-1 tvg-ID="" tvg-name="US: F1- CAM Alexander Albon" tvg-logo="" group-title="USA - Formula 1",US: F1- CAM Alexander Albon
 http://clientportal-proiptv.club:8080/zdCPHkb09fHz/qNktjGmNPnZq/167295
 #EXTINF:-1 tvg-ID="" tvg-name="US: F1- CAM Carlos Sainz" tvg-logo="" group-title="USA - Formula 1",US: F1- CAM Carlos Sainz
